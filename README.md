@@ -5,7 +5,7 @@ An app that acts as an introduction to Mixed Reality Development on Hololens 1. 
 Text appears upon gaze of 2 game objects - the capsule and the sofa. For the capsule, it turns from grey to red and a panel with text reading "Try Grabbing" appears. For the sofa, a text reading "Manipulate Sofa" appears upon gaze. The posters light up upon gaze as well.
 
 ## Air Taps
-The 3 posters control the visualisation of the 3D model of the changeable object - upon tapping any of the posters (hololens, car, and engine), a 3D replica of that poster will appear. The capsule also turns yellow upon tapping. Air taps anywhere can also add boxes to the scene.
+The 3 posters control the visualisation of the 3D model of the changeable object - upon tapping any of the posters (hololens, car, and engine), a 3D replica of that poster will appear. The capsule also turns yellow upon tapping. Air taps anywhere can also spawn cardboard boxes to the scene.
 
 ## Drags
 The model object can be rotated and moved, with speech input source keywords as “rotation mode” and “movement mode”. The capsule can be rotated, moved and scaled, with speech input source keywords as “rotate mode”, “move mode”, and “rescale mode”. The sofa can be rotated, moved, and scaled, with speech input source keywords as “rotating”, “moving”, and “rescaling”.
